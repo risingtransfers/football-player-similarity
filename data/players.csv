@@ -1,0 +1,451 @@
+player_id,player_name,slug,position,club,league,style_tags
+96353,Bernardo Silva,b-silva,MF,Manchester City,Premier League,Creator
+600687,Vinicius Junior,vinicius,FW,Real Madrid,La Liga,"Inside Forward, Prolific, Dribbler"
+154421,Erling Haaland,e-haaland,FW,Manchester City,Premier League,"Complete Forward, Prolific"
+129602,Bruno Fernandes,b-fernandes,MF,Manchester United,Premier League,"Creator, Creative"
+37429246,Florian Wirtz,f-wirtz,MF,Liverpool,Premier League,"Creator, Creative"
+24799984,Michael Olise,m-olise,FW,FC Bayern München,Bundesliga,"Inside Forward, Prolific, Dribbler"
+37593237,Warren Zaïre-Emery,w-zaire-emery,MF,Paris Saint Germain,Ligue 1,"Metronome, Creative"
+96611,Kylian Mbappé,k-mbappe,FW,Real Madrid,La Liga,"Dynamic Forward, Prolific, Dribbler"
+997,Harry Kane,h-kane,FW,FC Bayern München,Bundesliga,"Complete Forward, Prolific"
+6838,James Maddison,j-maddison,MF,Tottenham Hotspur,Premier League,"Creator, Creative"
+32438,Christian Pulisic,c-pulisic,FW,AC Milan,Serie A,"Inside Forward, Prolific"
+37255840,Jude Bellingham,j-bellingham,MF,Real Madrid,La Liga,"Creator, Creative"
+37317392,Xavi Simons,x-simons,MF,Tottenham Hotspur,Premier League,"Creator, Creative"
+333594,Lautaro Martínez,l-martinez,FW,Inter,Serie A,"Poacher, Prolific"
+525790,Takefusa Kubo,t-kubo-525790,FW,Real Sociedad,La Liga,"Dynamic Forward, Dribbler"
+37316549,Alejandro Garnacho,a-garnacho,FW,Chelsea,Premier League,Complete Forward
+26823,Martin Ødegaard,m-odegaard-26823,MF,Arsenal,Premier League,"Creator, Creative"
+37656179,Lamine Yamal,l-yamal-nasraoui-ebana,FW,FC Barcelona,La Liga,"Inside Forward, Prolific, Dribbler"
+186910,Rodri,rodri,MF,Manchester City,Premier League,"Ball-Winner, Defensive"
+37592729,João Neves,j-goncalves-neves,MF,Paris Saint Germain,Ligue 1,Metronome
+1371,Kevin De Bruyne,k-de-bruyne,MF,Napoli,Serie A,"Creator, Creative"
+187260,Achraf Hakimi,a-hakimi-mouh,DF,Paris Saint Germain,Ligue 1,"Active Full-Back, Ball-Playing"
+24838191,Josko Gvardiol,j-gvardiol,DF,Manchester City,Premier League,"Ball-Playing CB, Ball-Playing, Aerial"
+37647009,Endrick,e-moreira-de-sousa,FW,Olympique Lyonnais,Ligue 1,"Dynamic Forward, Dribbler"
+262644,Alphonso Davies,a-davies,DF,FC Bayern München,Bundesliga,"Active Full-Back, Ball-Playing"
+1193,N'Golo Kanté,n-kante,MF,Fenerbahçe,Super Lig,Metronome
+455805,Victor Osimhen,v-osimhen,FW,Galatasaray,Super Lig,"Complete Forward, Prolific"
+947,Luis Suárez,l-suarez-diaz,FW,Inter Miami,Major League Soccer,Complete Forward
+185658,Antoine Griezmann,a-griezmann,FW,Atlético Madrid,La Liga,"Link-up Striker, Prolific"
+929,Memphis Depay,m-depay,FW,Corinthians,Serie A,Complete Forward
+30922,Marco Reus,m-reus,MF,LA Galaxy,Major League Soccer,"Attacking Midfield, Creator, Creative"
+186320,Neymar,neymar,MF,Santos,Serie A,"Creator, Creative"
+159699,Rúben Neves,r-da-silva-neves,MF,Al Hilal,Pro League,"Creator, Creative"
+580,Cristiano Ronaldo,c-ronaldo,FW,Al Nassr,Pro League,"Poacher, Prolific"
+971,Riyad Mahrez,r-mahrez,FW,Al Ahli,Pro League,Forward
+186982,Youssef En-Nesyri,y-en-nesyri,FW,Al Ittihad,Pro League,"Poacher, Prolific"
+184798,Lionel Messi,l-messi,FW,Inter Miami,Major League Soccer,"Inside Forward, Prolific, Dribbler"
+93948,Karim Benzema,k-benzema,FW,Al Hilal,Pro League,"Complete Forward, Prolific"
+1461,Roberto Firmino,r-firmino,FW,Al Sadd,Stars League,"Complete Forward, Prolific"
+4313,Heung-min Son,h-son,FW,Los Angeles FC,Major League Soccer,Inside Forward
+1389,Sadio Mané,s-mane,FW,Al Nassr,Pro League,"Inside Forward, Prolific, Dribbler"
+5569,Alex Cairns,a-cairns,GK,Leeds United,Premier League,Sweeper-Keeper
+2510970,Urko Izeta,u-iruretagoiena-lertxundi,FW,Athletic Club,La Liga,"Poacher, Prolific"
+37716600,Lander Astiazaran,l-astiazaran-escabias,MF,Real Sociedad,La Liga,"Creator, Creative"
+538850,Mike Tresor,m-ndayishimiye,MF,Burnley,Premier League,"Creator, Creative"
+37342615,Abdoullah Ba,a-ba-37342615,MF,Sunderland,Premier League,"Creator, Creative"
+37676502,Arkaitz Mariezkurrena,a-mariezkurrena-etxezarreta,FW,Real Sociedad,La Liga,Forward
+37257596,Bart Verbruggen,b-verbruggen,GK,Brighton & Hove Albion,Premier League,Sweeper-Keeper
+37407204,Igor Thiago,thiago-37407204,FW,Brentford,Premier League,"Target Man, Prolific"
+1592,Jarrod Bowen,j-bowen,FW,West Ham United,Premier League,Complete Forward
+1826,Jordan Pickford,j-pickford,GK,Everton,Premier League,Sweeper-Keeper
+4536524,James Garner,j-garner,MF,Everton,Premier League,"Ball-Winner, Creative, Defensive"
+37590847,Thierno Barry,t-barry,FW,Everton,Premier League,Target Man
+178032,Nikola Milenković,n-milenkovi,DF,Nottingham Forest,Premier League,"Ball-Playing CB, Aerial"
+332047,Elliot Anderson,e-anderson,MF,Nottingham Forest,Premier League,"Metronome, Creative, Defensive"
+955,Luke Shaw,l-shaw,DF,Manchester United,Premier League,Active Full-Back
+1743,Virgil van Dijk,v-van-dijk,DF,Liverpool,Premier League,"Ball-Playing CB, Ball-Playing, Aerial"
+538472,Djordje Petrovic,d-petrovi,GK,AFC Bournemouth,Premier League,Traditional Keeper
+28543553,Adrien Truffert,a-truffert,DF,AFC Bournemouth,Premier League,Active Full-Back
+4598710,Tyrick Mitchell,t-mitchell,DF,Crystal Palace,Premier League,Active Full-Back
+3188026,Anastasios Douvikas,a-douvikas,FW,Como,Serie A,"Poacher, Prolific"
+31342,Bernd Leno,b-leno,GK,Fulham,Premier League,Sweeper-Keeper
+24816771,Trai Hume,t-hume,DF,Sunderland,Premier League,Active Full-Back
+530762,Martín Zubimendi,m-zubimendi-ibanez,MF,Arsenal,Premier League,Metronome
+37316740,Jon Karrikaburu,j-karrika,FW,Real Sociedad,La Liga,"Complete Forward, Prolific"
+627,Danny Welbeck,d-tackie-mensah-welbeck,FW,Brighton & Hove Albion,Premier League,"Poacher, Prolific"
+25738,Ferdi Kadıoğlu,f-kadioglu,DF,Brighton & Hove Albion,Premier League,positional CB
+37565028,Amario Cozier-Duberry,a-cozier-duberry,FW,Brighton & Hove Albion,Premier League,"Inside Forward, Dribbler"
+96227,Mike Maignan,m-maignan,GK,AC Milan,Serie A,Traditional Keeper
+896225,Caoimhín Kelleher,c-kelleher,GK,Brentford,Premier League,Sweeper-Keeper
+37509395,Yegor Yarmolyuk,y-yarmoliuk,MF,Brentford,Premier League,Box-to-Box
+37600942,Michael Kayode,m-kayode,DF,Brentford,Premier League,Active Full-Back
+1639,James Tarkowski,j-tarkowski,DF,Everton,Premier League,"Physical Stopper, Aerial"
+21773178,Beto,n-bercique-gomes-betuncal,FW,Everton,Premier League,"Target Man, Prolific"
+37528754,Jake O'Brien,j-obrien,DF,Everton,Premier League,Aerial
+10601,Harvey Barnes,h-barnes,FW,Newcastle United,Premier League,Inside Forward
+37392849,Jaidon Anthony,j-anthony,FW,Burnley,Premier League,Complete Forward
+7926,Morgan Gibbs-White,m-gibbs-white,MF,Nottingham Forest,Premier League,Creator
+11720838,Neco Williams,n-williams,DF,Nottingham Forest,Premier League,Active Full-Back
+29328429,Igor Jesus,i-da-cruz,FW,Nottingham Forest,Premier League,Target Man
+12145,Ollie Watkins,o-watkins,FW,Aston Villa,Premier League,"Poacher, Prolific"
+4592198,Morgan Rogers,m-rogers,MF,Aston Villa,Premier League,Creator
+1494245,Conor Gallagher,c-gallagher,MF,Tottenham Hotspur,Premier League,Box-to-Box
+216612,Alexis Mac Allister,a-mac-allister,MF,Liverpool,Premier League,Creator
+333989,Marcos Senesi,m-senesi,DF,AFC Bournemouth,Premier League,"Ball-Playing CB, Ball-Playing, Aerial"
+37550443,Alex Scott,a-scott,MF,AFC Bournemouth,Premier League,Box-to-Box
+12647,Dean Henderson,d-henderson,GK,Crystal Palace,Premier League,Traditional Keeper
+186815,Pablo Fornals,p-fornals-malla,MF,Real Betis,La Liga,"Creator, Creative"
+4552689,Brenden Aaronson,b-aaronson,MF,Leeds United,Premier League,Creator
+1494446,Emile Smith Rowe,e-smith-rowe,MF,Fulham,Premier League,Creator
+3130,David Raya,d-raya-martin,GK,Arsenal,Premier League,Reliable Keeper
+187215,Unai Simón,u-simon-mendibil,GK,Athletic Club,La Liga,Traditional Keeper
+37678224,Gorka Carrera,g-carrera-zarranz,FW,Real Sociedad,La Liga,"Complete Forward, Prolific"
+24818803,Jan Paul van Hecke,j-van-hecke-24818803,DF,Brighton & Hove Albion,Premier League,"Ball-Playing CB, Ball-Playing, Aerial"
+84426,Mathias Jensen,m-jensen-84426,MF,Brentford,Premier League,Creator
+339093,Josh Dasilva,p-dasilva,MF,Brentford,Premier League,Box-to-Box
+28552845,Keane Lewis-Potter,k-lewis-potter,MF,Brentford,Premier League,Balanced Midfielder
+37593153,Mateus Fernandes,m-espanha-fernandes,MF,West Ham United,Premier League,"Ball-Winner, Defensive"
+911,Kyle Walker,k-walker,DF,Burnley,Premier League,Active Full-Back
+186660,Emiliano Buendía,e-buendia,MF,Aston Villa,Premier League,"Creator, Creative, Defensive"
+995,Romelu Lukaku,r-lukaku-menama,FW,Napoli,Serie A,"Complete Forward, Prolific"
+30062,Cody Gakpo,c-gakpo,FW,Liverpool,Premier League,Inside Forward
+100556,Ibrahima Konaté,i-konate,DF,Liverpool,Premier League,"Ball-Playing CB, Ball-Playing, Aerial"
+785998,Dominik Szoboszlai,d-szoboszlai,MF,Liverpool,Premier League,"Creator, Creative"
+5270462,Ryan Gravenberch,r-gravenberch,MF,Liverpool,Premier League,Metronome
+11298616,Evanilson,f-de-lima-barbosa,FW,AFC Bournemouth,Premier League,Complete Forward
+37380649,Alberto Moleiro,a-moleiro-gonzalez,FW,Villarreal,La Liga,Inside Forward
+37545384,Máximo Perrone,m-perrone,MF,Como,Serie A,Metronome
+5403,Harry Wilson,h-wilson,FW,Fulham,Premier League,Inside Forward
+160217,Raúl Jiménez,r-jimenez-rodriguez,FW,Fulham,Premier League,Target Man
+7026744,Enzo Le Fée,e-le-fee,MF,Sunderland,Premier League,"Creator, Creative, Defensive"
+5273,Declan Rice,d-rice,MF,Arsenal,Premier League,"Metronome, Creative"
+194167,Viktor Gyökeres,v-gyokeres,FW,Arsenal,Premier League,"Poacher, Prolific"
+29709995,Enzo Fernández,e-fernandez,MF,Chelsea,Premier League,"Creator, Creative"
+34422783,Mikel Jauregizar,m-jauregizar-alboniga,MF,Athletic Club,La Liga,Box-to-Box
+187110,Álex Remiro,a-remiro-gargallo,GK,Real Sociedad,La Liga,Sweeper-Keeper
+96002,Florian Lejeune,f-lejeune,DF,Rayo Vallecano,La Liga,"Ball-Playing CB, Ball-Playing, Aerial"
+447094,Jorge de Frutos,j-de-frutos-sebastian,FW,Rayo Vallecano,La Liga,Inside Forward
+538861,Alexis Saelemaekers,a-saelemaekers,MF,AC Milan,Serie A,"Box-to-Box, Creative"
+11705403,Nathan Collins,n-collins,DF,Brentford,Premier League,"Ball-Playing CB, Aerial"
+27067062,Kevin Schade,k-schade,FW,Brentford,Premier League,Complete Forward
+80655,Tomáš Souček,t-souek,MF,West Ham United,Premier League,Box-to-Box
+2823228,Sandro Tonali,s-tonali,MF,Newcastle United,Premier League,Metronome
+80889,Martin Dúbravka,m-dubravka,GK,Burnley,Premier League,Commanding Keeper
+37423141,Lesley Ugochukwu,c-ugochukwu,MF,Burnley,Premier League,Ball-Winner
+6524,Matty Cash,m-cash,DF,Aston Villa,Premier League,Active Full-Back
+37296248,Micky van de Ven,m-van-de-ven,DF,Tottenham Hotspur,Premier League,Ball-Playing CB
+37286738,Hugo Bueno,h-bueno,DF,Wolverhampton Wanderers,Premier League,Active Full-Back
+37402348,João Gomes,gomes,MF,Wolverhampton Wanderers,Premier League,"Ball-Winner, Defensive"
+37526007,André,a-trindade-da-costa-neto,MF,Wolverhampton Wanderers,Premier League,"Ball-Winner, Defensive"
+5666458,Maxence Lacroix,m-lacroix,DF,Crystal Palace,Premier League,"Ball-Playing CB, Aerial"
+96656,Nicolas Pépé,n-pepe,FW,Villarreal,La Liga,"Inside Forward, Dribbler"
+5141,Dominic Calvert-Lewin,d-calvert-lewin,FW,Leeds United,Premier League,"Target Man, Prolific"
+12542,Ethan Ampadu,e-ampadu,MF,Leeds United,Premier League,Box-to-Box
+339112,Joe Rodon,j-rodon,DF,Leeds United,Premier League,"Ball-Playing CB, Aerial"
+37596384,Nico Paz,n-paz-martinez,MF,Como,Serie A,"Creator, Creative, Defensive"
+64193,Sander Berge,s-berge,MF,Fulham,Premier League,Box-to-Box
+37397144,Robin Roefs,r-roefs,GK,Sunderland,Premier League,Commanding Keeper
+16827175,Jonathan David,j-david,FW,Juventus,Serie A,Complete Forward
+28931574,João Pedro,j-junqueira-de-jesus,FW,Chelsea,Premier League,"Target Man, Prolific"
+37259180,Levi Colwill,l-colwill,DF,Chelsea,Premier League,"Ball-Playing CB, Ball-Playing"
+190168,Gorka Guruzeta,g-guruzeta-rodriguez,FW,Athletic Club,La Liga,Target Man
+9308118,Andrei Rațiu,a-ratiu,DF,Rayo Vallecano,La Liga,Active Full-Back
+37655226,Yankuba Minteh,y-minteh,FW,Brighton & Hove Albion,Premier League,"Dynamic Forward, Dribbler"
+268,Luka Modrić,l-modri,MF,AC Milan,Serie A,"Metronome, Creative"
+25930711,Strahinja Pavlović,s-pavlovi,DF,AC Milan,Serie A,"Ball-Playing CB, Ball-Playing"
+96755,Gaëtan Perrin,g-perrin,FW,LOSC Lille,Ligue 1,Inside Forward
+4545389,Eric García,e-garcia,DF,FC Barcelona,La Liga,"Ball-Playing CB, Ball-Playing"
+37261110,Zeki Amdouni,m-amdouni,FW,Burnley,Premier League,Forward
+37351292,Maxime Estève,m-esteve,DF,Burnley,Premier League,"Ball-Playing CB, Aerial"
+13591496,Carlos Augusto,c-zopalato-neves,DF,Inter,Serie A,"Active Full-Back, Ball-Playing"
+159700,Casemiro,c-casimiro,MF,Manchester United,Premier League,"Ball-Winner, Defensive"
+164061,Diogo Dalot,j-dalot-teixeira,DF,Manchester United,Premier League,Active Full-Back
+7124,Ezri Konsa,e-konsa-ngoyo,DF,Aston Villa,Premier League,"Ball-Playing CB, Ball-Playing"
+8456257,Pedro Porro,p-porro-sauceda,DF,Tottenham Hotspur,Premier League,Active Full-Back
+129926,Matteo Politano,m-politano,FW,Napoli,Serie A,Forward
+4545513,Curtis Jones,c-jones,MF,Liverpool,Premier League,Metronome
+37381778,Milos Kerkez,milos-kerkez,DF,Liverpool,Premier League,Active Full-Back
+537493,Marcus Tavernier,m-tavernier,MF,AFC Bournemouth,Premier League,"Creator, Creative"
+24468970,Yéremy Pino,y-jesus-pino-santos,FW,Crystal Palace,Premier League,Forward
+37350704,Adam Wharton,a-wharton,MF,Crystal Palace,Premier League,"Box-to-Box, Creative"
+1232,Andrej Kramaric,a-kramari,MF,TSG Hoffenheim,Bundesliga,Creator
+31146,Oliver Baumann,o-baumann,GK,TSG Hoffenheim,Bundesliga,Sweeper-Keeper
+80304,Vladimír Coufal,v-coufal,DF,TSG Hoffenheim,Bundesliga,Active Full-Back
+34084,Gregor Kobel,g-kobel,GK,Borussia Dortmund,Bundesliga,Traditional Keeper
+29478,Pascal Struijk,p-struijk,DF,Leeds United,Premier League,"Ball-Playing CB, Ball-Playing, Aerial"
+432881,Illan Meslier,i-meslier,GK,Leeds United,Premier League,Traditional Keeper
+581158,Jayden Bogle,j-bogle,DF,Leeds United,Premier League,Active Full-Back
+31909,Marc Oliver Kempf,m-kempf,DF,Como,Serie A,"Ball-Playing CB, Ball-Playing, Aerial"
+129771,Gianluigi Donnarumma,g-donnarumma,GK,Manchester City,Premier League,Traditional Keeper
+21781428,Matheus Nunes,m-nunes,DF,Manchester City,Premier League,"Active Full-Back, Ball-Playing"
+37562487,Nico O'Reilly,n-oreilly,DF,Manchester City,Premier League,Active Full-Back
+1887,Granit Xhaka,g-xhaka,MF,Sunderland,Premier League,Metronome
+37322757,Jay Matete,jay-matete,MF,Sunderland,Premier League,"Ball-Winner, Defensive"
+448448,Marc Cucurella,m-cucurella,DF,Chelsea,Premier League,Active Full-Back
+496775,Pedro Neto,p-lomba-neto,FW,Chelsea,Premier League,Forward
+537117,Trevoh Chalobah,t-chalobah,DF,Chelsea,Premier League,"Ball-Playing CB, Ball-Playing, Aerial"
+37317367,Malo Gusto,m-gusto,DF,Chelsea,Premier League,Active Full-Back
+37704787,Aleksa Puric,a-puric,DF,Atlético Madrid,La Liga,"Physical Stopper, Aerial"
+186063,Iñigo Ruiz de Galarreta,i-ruiz-de-galarreta-etxeberria,MF,Athletic Club,La Liga,Box-to-Box
+32550,Alexander Nübel,a-nubel,GK,VfB Stuttgart,Bundesliga,Sweeper-Keeper
+4536572,Angelo Stiller,a-stiller,MF,VfB Stuttgart,Bundesliga,"Metronome, Creative"
+333778,Augusto Batalla,a-batalla-barga,GK,Rayo Vallecano,La Liga,Sweeper-Keeper
+445829,Pedro Díaz,p-diaz-fanjul,MF,Rayo Vallecano,La Liga,Balanced Midfielder
+2461,Lewis Dunk,l-dunk,DF,Brighton & Hove Albion,Premier League,"Ball-Playing CB, Ball-Playing, Aerial"
+4655,Fikayo Tomori,f-tomori,DF,AC Milan,Serie A,"Ball-Playing CB, Ball-Playing"
+3510051,Youssouf Fofana,y-fofana,MF,AC Milan,Serie A,Ball-Winner
+881,Michael Keane,m-keane,DF,Everton,Premier League,"Ball-Playing CB, Aerial"
+537271,Vitaliy Mykolenko,v-mykolenko,DF,Everton,Premier League,Aerial
+32796138,Félix Correia,f-sanches-correia,FW,LOSC Lille,Ligue 1,Forward
+74060,Dani Olmo,d-olmo-carvajal,MF,FC Barcelona,La Liga,"Creator, Creative"
+448389,Ferran Torres,f-torres-garcia,FW,FC Barcelona,La Liga,"Poacher, Prolific"
+3071,Jacob Murphy,j-murphy-3071,FW,Newcastle United,Premier League,Complete Forward
+32777430,Nick Woltemade,n-woltemade,FW,Newcastle United,Premier League,Complete Forward
+7987,Josh Laurent,j-laurent,MF,Burnley,Premier League,Balanced Midfielder
+537422,J. Teze,j-teze,DF,Monaco,Ligue 1,Ball-Playing CB
+37533560,Ange-Yoan Bonny,a-bonny,FW,Inter,Serie A,"Complete Forward, Prolific"
+529689,Bryan Mbeumo,b-mbeumo,FW,Manchester United,Premier League,Inside Forward
+1846739,Matheus Cunha,m-carneiro-da-cunha,FW,Manchester United,Premier League,Inside Forward
+160072,João Palhinha,j-lobo-alves-palhinha-goncalves,MF,Tottenham Hotspur,Premier League,"Ball-Winner, Defensive"
+338180,Eljif Elmas,e-elmas,MF,Napoli,Serie A,Creator
+37260431,Tolu Arokodare,t-arokodare,FW,Wolverhampton Wanderers,Premier League,Target Man
+37632336,Eli Kroupi,e-kroupi,FW,AFC Bournemouth,Premier League,"Poacher, Prolific"
+18218609,Chris Richards,c-richards,DF,Crystal Palace,Premier League,"Ball-Playing CB, Aerial"
+37678216,Christantus Uche,c-uche,FW,Crystal Palace,Premier League,Target Man
+33784,Grischa Prömel,g-promel,MF,TSG Hoffenheim,Bundesliga,Box-to-Box
+32819099,Fisnik Asllani,f-asllani,FW,TSG Hoffenheim,Bundesliga,Complete Forward
+37661898,Leon Avdullahu,l-avdullahu,MF,TSG Hoffenheim,Bundesliga,Metronome
+37402346,Natan,natan-37402346,DF,Real Betis,La Liga,"Ball-Playing CB, Aerial"
+260862,Federico Valverde,f-valverde-dipetta,MF,Real Madrid,La Liga,Metronome
+5270371,Aurélien Tchouaméni,a-tchouameni,MF,Real Madrid,La Liga,Metronome
+37547467,Arda Güler,a-guler,MF,Real Madrid,La Liga,"Creator, Creative"
+32695,Serhou Guirassy,s-guirassy,FW,Borussia Dortmund,Bundesliga,"Target Man, Prolific"
+37407422,Daniel Svensson,d-svensson,DF,Borussia Dortmund,Bundesliga,Active Full-Back
+189585,Santi Comesaña,s-comesana-veiga,MF,Villarreal,La Liga,Box-to-Box
+31238822,Tajon Buchanan,t-buchanan,FW,Villarreal,La Liga,Inside Forward
+37692095,Samir El Mourabet,s-el-mourabet,MF,Strasbourg,Ligue 1,"Metronome, Defensive"
+23288607,Nicola Zalewski,n-zalewski,MF,Atalanta,Serie A,"Creator, Creative"
+336133,Phil Foden,p-foden,MF,Manchester City,Premier League,"Creator, Creative"
+21072805,Rayan Cherki,m-cherki,MF,Manchester City,Premier League,"Creator, Creative"
+25284,Joachim Andersen,j-andersen,DF,Fulham,Premier League,"Ball-Playing CB, Ball-Playing, Aerial"
+258137,Omar Alderete,o-alderete-fernandez,DF,Sunderland,Premier League,"Physical Stopper, Aerial"
+37630179,Noah Sadiki,n-sadiki,MF,Sunderland,Premier League,Balanced Midfielder
+37538035,Nathaniel Brown,n-brown,DF,Eintracht Frankfurt,Bundesliga,Active Full-Back
+31077,Willi Orbán,w-orban,DF,RB Leipzig,Bundesliga,"Ball-Playing CB, Ball-Playing, Aerial"
+3862700,Christoph Baumgartner,c-baumgartner,MF,RB Leipzig,Bundesliga,Box-to-Box
+31237395,Nicolas Seiwald,n-seiwald,MF,RB Leipzig,Bundesliga,Ball-Winner
+37922937,Yan Diomande,y-diomande,FW,RB Leipzig,Bundesliga,"Inside Forward, Prolific, Dribbler"
+4574,Aleix García,a-garcia-serrano,MF,Bayer 04 Leverkusen,Bundesliga,"Metronome, Creative"
+37601342,Eliesse Ben Seghir,e-ben-seghir,FW,Bayer 04 Leverkusen,Bundesliga,Inside Forward
+581000,Robert Sánchez,r-lynch-sanchez,GK,Chelsea,Premier League,Sweeper-Keeper
+37261500,Moisés Caicedo,m-caicedo-corozo,MF,Chelsea,Premier League,"Ball-Winner, Defensive"
+25514,Alexander Sørloth,a-sorloth,FW,Atlético Madrid,La Liga,"Target Man, Prolific"
+185571,Koke,j-resurreccion-merodio,MF,Atlético Madrid,La Liga,Metronome
+474354,Mousa Tamari,m-al-tamari,FW,Rennes,Ligue 1,Inside Forward
+37530985,Quentin Merlin,q-merlin,DF,Rennes,Ligue 1,Active Full-Back
+2158512,Chris Führich,c-fuhrich,FW,VfB Stuttgart,Bundesliga,Inside Forward
+37546475,Pablo Marín,p-marin-tejada,MF,Real Sociedad,La Liga,Creator
+2510817,Óscar Valentín,o-martin-luengo,MF,Rayo Vallecano,La Liga,"Ball-Winner, Defensive"
+21803152,Pep Chavarría,j-chavarria-perez,DF,Rayo Vallecano,La Liga,Active Full-Back
+96884,Christopher Nkunku,c-nkunku,FW,AC Milan,Serie A,"Complete Forward, Prolific"
+1065,Callum Wilson,c-wilson,FW,West Ham United,Premier League,"Poacher, Prolific"
+37685630,El Hadji Malick Diouf,e-diouf,DF,West Ham United,Premier League,Active Full-Back
+23661272,Iliman Ndiaye,i-ndiaye,FW,Everton,Premier League,"Dynamic Forward, Dribbler"
+1878,Marcus Rashford,m-rashford,FW,FC Barcelona,La Liga,"Inside Forward, Prolific"
+37357510,Gerard Martín,g-martin-langreo,DF,FC Barcelona,La Liga,"Ball-Playing CB, Ball-Playing, Aerial"
+28912805,Anthony Elanga,a-elanga,FW,Newcastle United,Premier League,Forward
+28912753,Mika Biereth,m-bieveth,FW,Monaco,Ligue 1,Forward
+99000,Marcus Thuram,m-thuram,FW,Inter,Serie A,"Poacher, Prolific"
+241036,Luis Díaz,l-diaz-marulanda,FW,FC Bayern München,Bundesliga,"Inside Forward, Prolific, Dribbler"
+37317015,Amad Diallo,a-traore,FW,Manchester United,Premier League,Complete Forward
+37600357,Leny Yoro,l-yoro,DF,Manchester United,Premier League,"Ball-Playing CB, Aerial"
+1343,Emiliano Martínez,d-martinez,GK,Aston Villa,Premier League,Sweeper-Keeper
+219633,Richarlison,r-de-andrade,FW,Tottenham Hotspur,Premier League,"Target Man, Prolific"
+14338024,Dejan Kulusevski,d-kulusevski,MF,Tottenham Hotspur,Premier League,"Creator, Creative"
+129433,Leonardo Spinazzola,l-spinazzola,DF,Napoli,Serie A,Active Full-Back
+96950,Jean-Philippe Mateta,j-mateta,FW,Crystal Palace,Premier League,"Target Man, Prolific"
+32853,Kevin Akpoguma,k-akpoguma,DF,TSG Hoffenheim,Bundesliga,"Ball-Playing CB, Aerial"
+34831,Ihlas Bebou,i-bebou,FW,TSG Hoffenheim,Bundesliga,Complete Forward
+31626002,Alexander Prass,a-prass,DF,TSG Hoffenheim,Bundesliga,Physical Stopper
+240195,Cucho Hernández,j-hernandez-suarez,FW,Real Betis,La Liga,Complete Forward
+12393293,Antony,a-dos-santos,FW,Real Betis,La Liga,Inside Forward
+1314,Thibaut Courtois,t-courtois,GK,Real Madrid,La Liga,Traditional Keeper
+32728,Waldemar Anton,w-anton,DF,Borussia Dortmund,Bundesliga,"Ball-Playing CB, Ball-Playing, Aerial"
+23277923,Maximilian Beier,m-beier,FW,Borussia Dortmund,Bundesliga,"Complete Forward, Prolific"
+37581777,Jobe Bellingham,j-bellingham-37581777,MF,Borussia Dortmund,Bundesliga,Box-to-Box
+12394069,Logan Costa,l-costa,DF,Villarreal,La Liga,Ball-Playing CB
+193196,Gabriel Gudmundsson,g-gudmundsson,DF,Leeds United,Premier League,positional CB
+129860,Edoardo Goldaniga,e-goldaniga,DF,Como,Serie A,Ball-Playing CB
+37656089,Jacobo Ramón,j-naveros,DF,Como,Serie A,"Ball-Playing CB, Ball-Playing, Aerial"
+1744,Pierre-Emile Højbjerg,p-hojbjerg,MF,Olympique Marseille,Ligue 1,Metronome
+20333643,Mason Greenwood,m-greenwood,FW,Olympique Marseille,Ligue 1,"Inside Forward, Prolific"
+37656924,Josh King,j-king,MF,Fulham,Premier League,Creator
+97669,Nordi Mukiele,n-mukiele-mulere,DF,Sunderland,Premier League,"Active Full-Back, Aerial"
+35364,Robin Koch,r-koch,DF,Eintracht Frankfurt,Bundesliga,"Ball-Playing CB, Ball-Playing, Aerial"
+2483333,Ridle Baku,r-baku,DF,RB Leipzig,Bundesliga,"Active Full-Back, Ball-Playing"
+7643,Eberechi Eze,e-eze,MF,Arsenal,Premier League,Creator
+97811,Gabriel Magalhães,g-dos-santos-magalhaes,DF,Arsenal,Premier League,"Ball-Playing CB, Ball-Playing, Aerial"
+62374,Clinton Mata,c-mata-pedro-lourenco,DF,Olympique Lyonnais,Ligue 1,"Ball-Playing CB, Ball-Playing, Aerial"
+98874,Moussa Niakhaté,m-niakhate,DF,Olympique Lyonnais,Ligue 1,"Ball-Playing CB, Ball-Playing, Aerial"
+34880,Robert Andrich,r-andrich,MF,Bayer 04 Leverkusen,Bundesliga,Metronome
+25355,Arkadiusz Milik,a-milik,FW,Juventus,Serie A,"Complete Forward, Prolific"
+8204,Yuri Berchiche,y-berchiche-izeta,DF,Athletic Club,La Liga,Active Full-Back
+21427714,Robert Navarro,r-navarro-munoz,FW,Athletic Club,La Liga,"Inside Forward, Prolific"
+96030,Brice Samba,b-samba,GK,Rennes,Ligue 1,Sweeper-Keeper
+96610,Ludovic Blas,l-blas,FW,Rennes,Ligue 1,Complete Forward
+527765,Mahdi Camara,m-camara-527765,MF,Rennes,Ligue 1,Box-to-Box
+13187047,Estéban Lepaul,e-lepaul,FW,Rennes,Ligue 1,"Poacher, Prolific"
+32384,Maximilian Mittelstädt,m-mittelstadt,DF,VfB Stuttgart,Bundesliga,Active Full-Back
+12426453,Jamie Leweling,j-leweling,FW,VfB Stuttgart,Bundesliga,Complete Forward
+37719250,Alex Marchal,a-marchal-garcia,FW,Real Sociedad,La Liga,Forward
+186358,Álvaro García,a-garcia-rivera,FW,Rayo Vallecano,La Liga,Complete Forward
+20716664,Samuele Ricci,s-ricci,MF,AC Milan,Serie A,Ball-Winner
+37643538,Davide Bartesaghi,d-bartesaghi,DF,AC Milan,Serie A,Active Full-Back
+109417,Konstantinos Mavropanos,k-mavropanos,DF,West Ham United,Premier League,"Physical Stopper, Aerial"
+9939203,Crysencio Summerville,c-summerville,FW,West Ham United,Premier League,Forward
+204877,Berke Özer,b-ozer,GK,LOSC Lille,Ligue 1,Sweeper-Keeper
+32777470,Hákon Arnar Haraldsson,h-haraldsson,MF,LOSC Lille,Ligue 1,"Creator, Creative"
+31000,Robert Lewandowski,r-lewandowski,FW,FC Barcelona,La Liga,"Poacher, Prolific"
+37656790,Pau Cubarsí,p-cubarsi-paredes,DF,FC Barcelona,La Liga,"Ball-Playing CB, Ball-Playing, Aerial"
+163210,Florentino,f-morris-luis,MF,Burnley,Premier League,"Ball-Winner, Defensive"
+2975,Matz Sels,m-sels,GK,Nottingham Forest,Premier League,Traditional Keeper
+37536911,Omari Hutchinson,o-giraud-hutchinson,MF,Nottingham Forest,Premier League,"Creator, Creative"
+31824,Leon Goretzka,l-goretzka,MF,FC Bayern München,Bundesliga,Metronome
+95368,Lucas Digne,l-digne,DF,Aston Villa,Premier League,Active Full-Back
+37747533,Alysson,a-da-rocha-dos-santos,FW,Aston Villa,Premier League,Forward
+133779,Guglielmo Vicario,g-vicario,GK,Tottenham Hotspur,Premier League,Sweeper-Keeper
+37531504,Mathys Tel,m-tel,FW,Tottenham Hotspur,Premier League,"Dynamic Forward, Dribbler"
+37592744,Luis Hasa,l-hasa,MF,Napoli,Serie A,Box-to-Box
+37551836,Jackson Tchatchoua,j-tchatchoua,DF,Wolverhampton Wanderers,Premier League,Active Full-Back
+9808,David Brooks,d-brooks,FW,AFC Bournemouth,Premier League,Inside Forward
+14004542,Amine Adli,a-adli,FW,AFC Bournemouth,Premier League,Complete Forward
+151628,Julian Ryerson,j-ryerson,DF,Borussia Dortmund,Bundesliga,Active Full-Back
+1988,Dani Parejo,d-parejo-munoz,MF,Villarreal,La Liga,"Metronome, Creative, Defensive"
+13963088,Georges Mikautadze,g-mikautadze,FW,Villarreal,La Liga,"Poacher, Prolific"
+37593154,Renato Veiga,r-palma-veiga,DF,Villarreal,La Liga,"Ball-Playing CB, Ball-Playing, Aerial"
+37722327,Jesús Rodríguez,j-rodriguez-caraballo,FW,Como,Serie A,"Dynamic Forward, Dribbler"
+73147,Mateo Kovacic,m-kovai,MF,Manchester City,Premier League,"Metronome, Defensive"
+310486,Ritsu Doan,r-doan,FW,Eintracht Frankfurt,Bundesliga,Forward
+37570379,Antonio Nusa,a-nordby-nusa,FW,RB Leipzig,Bundesliga,"Inside Forward, Dribbler"
+61780,Leandro Trossard,l-trossard,FW,Arsenal,Premier League,Complete Forward
+16827155,Bukayo Saka,b-saka,FW,Arsenal,Premier League,"Inside Forward, Dribbler"
+187032,Álex Berenguer,a-berenguer-remiro,FW,Athletic Club,La Liga,Forward
+3510288,Dani Vivian,d-vivian-moreno,DF,Athletic Club,La Liga,"Ball-Playing CB, Aerial"
+32538,Breel Embolo,b-embolo,FW,Rennes,Ligue 1,"Complete Forward, Prolific"
+96290,Valentin Rongier,v-rongier,MF,Rennes,Ligue 1,Metronome
+9939196,Ramon Hendriks,r-hendriks,DF,VfB Stuttgart,Bundesliga,Ball-Playing CB
+37595294,Aitor Fraga,a-fraga-torres,GK,Real Sociedad,La Liga,Traditional Keeper
+383223,Isi Palazón,i-palazon-camacho,FW,Rayo Vallecano,La Liga,Complete Forward
+337432,Romain Perraud,r-perraud,DF,LOSC Lille,Ligue 1,Active Full-Back
+337394,Jules Koundé,j-kounde,DF,FC Barcelona,La Liga,"Active Full-Back, Ball-Playing"
+16475841,Joan García,j-pons,GK,FC Barcelona,La Liga,Reliable Keeper
+37459072,Lewis Hall,l-hall,DF,Newcastle United,Premier League,Active Full-Back
+2875858,Callum Hudson-Odoi,c-hudson-odoi,FW,Nottingham Forest,Premier League,Forward
+4969702,Folarin Balogun,f-balogun,FW,Monaco,Ligue 1,"Poacher, Prolific"
+1835,Henrikh Mkhitaryan,h-mkhitaryan,MF,Inter,Serie A,Metronome
+31284407,Luis Henrique,l-tomaz-de-lima,MF,Inter,Serie A,Creator
+24818280,Benjamin Sesko,b-eko,FW,Manchester United,Premier League,"Target Man, Prolific"
+172611,John McGinn,j-mcginn,MF,Aston Villa,Premier League,"Creator, Creative"
+340342,Brahim Díaz,b-abdelkader-diaz,FW,Real Madrid,La Liga,Forward
+37593253,Gonzalo García,g-garcia-torres,FW,Real Madrid,La Liga,"Poacher, Prolific"
+26328601,Sergi Cardona,s-cardona-bermudez,DF,Villarreal,La Liga,Active Full-Back
+44824,Mërgim Vojvoda,m-vojvoda,DF,Como,Serie A,Active Full-Back
+433500,Maxence Caqueret,m-caqueret,MF,Como,Serie A,"Box-to-Box, Creative"
+31739,Pierre-Emerick Aubameyang,p-aubameyang,FW,Olympique Marseille,Ligue 1,"Complete Forward, Prolific"
+29328428,Igor Paixão,i-barbosa-da-paixao,FW,Olympique Marseille,Ligue 1,Inside Forward
+23697990,Jérémy Doku,j-doku,FW,Manchester City,Premier League,"Dynamic Forward, Dribbler"
+62337,Timothy Castagne,t-castagne,DF,Fulham,Premier League,Active Full-Back
+540027,Calvin Bassey,c-bassey,DF,Fulham,Premier League,"Ball-Playing CB, Ball-Playing"
+36119,David Raum,d-raum,DF,RB Leipzig,Bundesliga,"Active Full-Back, Ball-Playing"
+37586403,Rômulo,r-cardoso-da-cruz,FW,RB Leipzig,Bundesliga,Target Man
+5270466,J. Timber,j-timber,DF,Arsenal,Premier League,Active Full-Back
+4344,Ainsley Maitland-Niles,a-maitland-niles,DF,Olympique Lyonnais,Ligue 1,Active Full-Back
+96122,Corentin Tolisso,c-tolisso,MF,Olympique Lyonnais,Ligue 1,Box-to-Box
+37577657,Giuliano Simeone,g-simeone,FW,Atlético Madrid,La Liga,Forward
+23278610,Gonçalo Ramos,g-ramos,FW,Paris Saint Germain,Ligue 1,"Complete Forward, Prolific"
+37544115,Jon Gorrotxategi,j-gorrotxategi-etxaniz,MF,Real Sociedad,La Liga,Box-to-Box
+798,Olivier Giroud,o-giroud,FW,LOSC Lille,Ligue 1,"Target Man, Prolific"
+37459056,Nathan Ngoy,n-ngoy,DF,LOSC Lille,Ligue 1,"Ball-Playing CB, Ball-Playing"
+37676891,Ngal'ayel Mukau,n-mukau,MF,LOSC Lille,Ligue 1,Box-to-Box
+37717176,Ayyoub Bouaddi,a-bouaddi,MF,LOSC Lille,Ligue 1,Box-to-Box
+2815,Dan Burn,d-burn,DF,Newcastle United,Premier League,"Physical Stopper, Aerial"
+459145,Bruno Guimarães,b-guimaraes-rodriguez-moura,MF,Newcastle United,Premier League,"Creator, Creative"
+933,Matteo Darmian,m-darmian,DF,Inter,Serie A,Ball-Playing CB
+32362,Joshua Kimmich,j-kimmich,MF,FC Bayern München,Bundesliga,"Metronome, Creative"
+52585,Konrad Laimer,k-laimer,DF,FC Bayern München,Bundesliga,"Active Full-Back, Ball-Playing"
+459653,Santiago Bueno,s-bueno-sciutto,DF,Wolverhampton Wanderers,Premier League,"Ball-Playing CB, Aerial"
+186922,Marc Roca,m-roca-junque,MF,Real Betis,La Liga,Balanced Midfielder
+37297124,Abde Ezzalzouli,a-ezzalzouli,FW,Real Betis,La Liga,"Inside Forward, Prolific"
+23688922,Eduardo Camavinga,e-camavinga,MF,Real Madrid,La Liga,"Metronome, Defensive"
+32158,Julian Brandt,j-brandt,MF,Borussia Dortmund,Bundesliga,"Creator, Creative"
+6306127,Felix Nmecha,f-nmecha,MF,Borussia Dortmund,Bundesliga,Box-to-Box
+186418,Gerónimo Rulli,g-rulli,GK,Olympique Marseille,Ligue 1,Traditional Keeper
+537332,Timothy Weah,t-weah,FW,Olympique Marseille,Ligue 1,Link-up Striker
+37698005,Conrad Harder,c-harder,FW,RB Leipzig,Bundesliga,Target Man
+181184,Dominik Greif,d-greif,GK,Olympique Lyonnais,Ligue 1,Sweeper-Keeper
+27081112,Tanner Tessmann,t-tessmann,MF,Olympique Lyonnais,Ligue 1,Ball-Winner
+37316836,Tyler Morton,t-morton,MF,Olympique Lyonnais,Ligue 1,Ball-Winner
+160208,Alejandro Grimaldo,a-grimaldo-garcia,DF,Bayer 04 Leverkusen,Bundesliga,"Active Full-Back, Ball-Playing"
+766659,Edmond Tapsoba,e-tapsoba,DF,Bayer 04 Leverkusen,Bundesliga,"Ball-Playing CB, Ball-Playing, Aerial"
+23277869,Malik Tillman,m-tillman,MF,Bayer 04 Leverkusen,Bundesliga,Creator
+37537954,Tim Oermann,t-oermann,DF,Bayer 04 Leverkusen,Bundesliga,Solid Defender
+37568511,Ernest Poku,e-poku,FW,Bayer 04 Leverkusen,Bundesliga,Inside Forward
+37912237,Christian Kofane,c-kofane,FW,Bayer 04 Leverkusen,Bundesliga,Target Man
+159276,Jan Oblak,j-oblak,GK,Atlético Madrid,La Liga,Traditional Keeper
+181449,Dávid Hancko,d-hancko,DF,Atlético Madrid,La Liga,Ball-Playing CB
+23738800,Manu Koné,k-kone,MF,Roma,Serie A,Box-to-Box
+41077,Deniz Undav,d-undav,FW,VfB Stuttgart,Bundesliga,"Complete Forward, Prolific"
+4545430,Vitinha,v-machado-ferreira,MF,Paris Saint Germain,Ligue 1,Metronome
+37317369,Bradley Barcola,b-barcola,FW,Paris Saint Germain,Ligue 1,"Inside Forward, Prolific"
+96943,Ibrahim Sangaré,i-sangare,MF,Nottingham Forest,Premier League,"Ball-Winner, Defensive"
+31836,Jonathan Tah,j-tah,DF,FC Bayern München,Bundesliga,"Ball-Playing CB, Ball-Playing, Aerial"
+7698423,Miguel Gutiérrez,m-gutierrez-ortega,DF,Napoli,Serie A,Active Full-Back
+80902,Ladislav Krejci,l-kreji,DF,Wolverhampton Wanderers,Premier League,"Ball-Playing CB, Aerial"
+450028,Álvaro Valles,a-valles-rosa,GK,Real Betis,La Liga,Traditional Keeper
+37619560,Valentín Gómez,d-gomez,DF,Real Betis,La Liga,"Ball-Playing CB, Aerial"
+37622174,Abdoul Ouattara,g-ouattara,MF,Strasbourg,Ligue 1,Balanced Midfielder
+37622796,Martial Godo,m-godo,FW,Strasbourg,Ligue 1,"Inside Forward, Prolific"
+129794,Emerson,e-palmieri-dos-santos,DF,Olympique Marseille,Ligue 1,Active Full-Back
+37266013,Ansgar Knauff,a-knauff,FW,Eintracht Frankfurt,Bundesliga,Complete Forward
+37536482,Farès Chaïbi,f-chaibi,MF,Eintracht Frankfurt,Bundesliga,"Creator, Creative"
+37700699,Keita Kosugi,k-kosugi,DF,Eintracht Frankfurt,Bundesliga,Active Full-Back
+37634183,Achraf Laâziri,a-laaziri,DF,Olympique Lyonnais,Ligue 1,Active Full-Back
+186795,Marcos Llorente,m-llorente-moreno,DF,Atlético Madrid,La Liga,"Active Full-Back, Ball-Playing"
+21394947,Julián Alvarez,j-alvarez,FW,Atlético Madrid,La Liga,Complete Forward
+129467,Bryan Cristante,b-cristante,MF,Roma,Serie A,Metronome
+418197,Atakan Karazor,a-karazor,MF,VfB Stuttgart,Bundesliga,Box-to-Box
+418704,Nikolas Nartey,n-nartey,MF,VfB Stuttgart,Bundesliga,"Creator, Creative"
+1479337,Khvicha Kvaratskhelia,k-kvaratskhelia,FW,Paris Saint Germain,Ligue 1,"Inside Forward, Prolific, Dribbler"
+24065255,Ilya Zabarnyi,i-zabarnyi,DF,Paris Saint Germain,Ligue 1,"Ball-Playing CB, Ball-Playing"
+1899,Héctor Bellerín,h-bellerin-moruno,DF,Real Betis,La Liga,Active Full-Back
+29419594,Julio Enciso,j-enciso,MF,Strasbourg,Ligue 1,Creator
+37400423,Emmanuel Emegha,e-esseh-emegha,FW,Strasbourg,Ligue 1,"Poacher, Prolific"
+37577727,Valentín Barco,v-barco,MF,Strasbourg,Ligue 1,"Metronome, Creative"
+37592734,Diego Moreira,d-da-silva-moreira,MF,Strasbourg,Ligue 1,"Box-to-Box, Creative"
+37657252,Rabby Nzingoula,r-nzingoula,MF,Strasbourg,Ligue 1,"Ball-Winner, Defensive"
+37663291,Joaquín Panichelli,j-panichelli,FW,Strasbourg,Ligue 1,"Target Man, Prolific"
+35574,Benjamin Pavard,b-pavard,DF,Olympique Marseille,Ligue 1,"Ball-Playing CB, Ball-Playing"
+37612045,Jean-Mattéo Bahoya,j-bahoya,FW,Eintracht Frankfurt,Bundesliga,"Dynamic Forward, Dribbler"
+24469162,Pavel Sulc,p-ulc,MF,Olympique Lyonnais,Ligue 1,Creator
+100580,Robin Le Normand,r-le-normand,DF,Atlético Madrid,La Liga,"Ball-Playing CB, Aerial"
+527351,Lilian Brassier,l-brassier,DF,Rennes,Ligue 1,"Ball-Playing CB, Ball-Playing"
+9967153,Kang-in Lee,k-lee-9967153,MF,Paris Saint Germain,Ligue 1,"Creator, Creative"
+132126,Riccardo Orsolini,r-orsolini,FW,Bologna,Serie A,all-around striker
+3862426,Josip Stanisic,j-stanisic,DF,FC Bayern München,Bundesliga,"Active Full-Back, Ball-Playing"
+37582217,Tom Bischof,t-bischof,MF,FC Bayern München,Bundesliga,"Creator, Creative"
+23707373,Lazar Samardžić,l-samardi,MF,Atalanta,Serie A,"Creator, Creative"
+13171199,Leonardo Balerdi,l-balerdi-rossa,DF,Olympique Marseille,Ligue 1,"Ball-Playing CB, Ball-Playing, Aerial"
+1167415,Bremer,g-bremer-silva-nascimento,DF,Juventus,Serie A,"Ball-Playing CB, Ball-Playing"
+37608995,Wesley,w-franca-lima,DF,Roma,Serie A,Active Full-Back
+37656838,Senny Mayulu,s-mayulu,MF,Paris Saint Germain,Ligue 1,"Creator, Creative, Defensive"
+84495,Jens Odgaard,j-odgaard,MF,Bologna,Serie A,Creator
+5252,Aaron Wan-Bissaka,a-wan-bissaka,DF,West Ham United,Premier League,Aerial
+170199,Aleksandr Golovin,a-golovin,MF,Monaco,Ligue 1,Creator
+23269740,Ansu Fati,a-fati,FW,Monaco,Ligue 1,"Inside Forward, Prolific"
+37695373,Mamadou Coulibaly,m-coulibaly,MF,Monaco,Ligue 1,Box-to-Box
+260904,Mathías Olivera,m-olivera-miramontes,DF,Napoli,Serie A,"Active Full-Back, Ball-Playing"
+22878016,Marco Carnesecchi,m-carnesecchi,GK,Atalanta,Serie A,Traditional Keeper
+37438667,Kamaldeen Sulemana,k-sulemana,FW,Atalanta,Serie A,Complete Forward
+96364,Ellyes Skhiri,e-skhiri,MF,Eintracht Frankfurt,Bundesliga,Metronome
+37592738,Hugo Larsson,h-larsson,MF,Eintracht Frankfurt,Bundesliga,Balanced Midfielder
+129890,Manuel Locatelli,m-locatelli,MF,Juventus,Serie A,"Metronome, Defensive"
+608189,Weston McKennie,w-mckennie,MF,Juventus,Serie A,Creator
+14726357,Pierre Kalulu,p-kalulu-kyatengwa,DF,Juventus,Serie A,"Ball-Playing CB, Ball-Playing"
+37598725,Kenan Yıldız,k-yildiz,FW,Juventus,Serie A,Link-Up Forward
+62962,Mile Svilar,m-svilar,GK,Roma,Serie A,Reliable Keeper
+37529822,Matías Soulé,m-malvano,FW,Roma,Serie A,all-around striker
+186797,Lucas Hernández,l-hernandez-pi,DF,Paris Saint Germain,Ligue 1,"Active Full-Back, Ball-Playing"
+198051,Denis Zakaria,d-zakaria-lako-lado,MF,Monaco,Ligue 1,Ball-Winner
+37642676,Lamine Camara,l-camara,MF,Monaco,Ligue 1,"Metronome, Creative, Defensive"
